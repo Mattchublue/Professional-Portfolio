@@ -1,3 +1,9 @@
-This portfolio page will display my experience and talents that I have 
-developed throughout my career.  It will also include projects and applications
-that I create through the Coding Bootcamp.
+Matthew Whiteman Professional Portfolio
+
+This application displays my work through my web development career.  It details my work experience and projects that I have completed in my work toward becoming a web developer
+
+Application Image
+
+Application URL
+
+https://mattchublue.github.io/Professional-Portfolio/
