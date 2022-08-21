@@ -123,7 +123,18 @@
   }
   /* Hero section ends */
   
-  
+  #leaders-img {
+    height: 300px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .linkedin-img {
+        height: 300px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
   
   /* Skills section */
   .skills {
@@ -169,7 +180,10 @@
     text-align: center;
     margin-bottom: 1rem;
   }
-  
+  img{
+    margin-left: auto;
+    margin-right: auto;
+  }
   .project-container {
     text-align: center;
     width: 21.875rem;
